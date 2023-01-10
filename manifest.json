@@ -1,0 +1,11 @@
+{
+  "name": "PX 2 REM",
+  "description": "covert pixel to rem value",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "PX 2 REM",
+    "default_icon": "assets/icon-32.png",
+    "default_popup": "popup.html"
+  }
+}
